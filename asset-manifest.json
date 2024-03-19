@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactapp-sample/static/css/main.09aa0083.css",
+    "main.js": "/reactapp-sample/static/js/main.21e334da.js",
+    "static/media/ai.png": "/reactapp-sample/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/reactapp-sample/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/reactapp-sample/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/reactapp-sample/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/reactapp-sample/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/reactapp-sample/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/reactapp-sample/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/reactapp-sample/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/reactapp-sample/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/reactapp-sample/index.html",
+    "main.09aa0083.css.map": "/reactapp-sample/static/css/main.09aa0083.css.map",
+    "main.21e334da.js.map": "/reactapp-sample/static/js/main.21e334da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09aa0083.css",
+    "static/js/main.21e334da.js"
+  ]
+}
